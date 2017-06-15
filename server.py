@@ -14,7 +14,6 @@ app = Flask(__name__)
 
 @app.route('/<path:path>')
 def send_static(path):
-    print(path)
     return send_from_directory('.', path)
 
 
@@ -28,14 +27,10 @@ def render_site():
         file_path = _MD_PATH+name
 
         with codecs.open(file_path, encoding="utf-8") as md_file:
-            print(file_path)
-            md_str = markdown.markdown(md_file.read())
+            md_str = markdown.markdown(md_file.read())+"\n<br><br>\n<br><br>\n<br><br>"
             output = pystache.render(template_str, {"content": md_str})
             out_file = codecs.open(name.split('.')[0]+'.html','w', encoding="utf-8")
             out_file.write(output, )
-
-
-    print(md_files)
 
 if __name__ == "__main__":
     render_site()
