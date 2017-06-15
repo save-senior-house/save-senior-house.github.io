@@ -4,3 +4,55 @@ html, body {
   margin: 0;
   font-family: 'Lora';
 }
+
+* {
+    box-sizing: border-box; 
+  }
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: row;
+    margin: 0;
+  }
+  .col-1 {
+    background: black;
+    color: white;
+    flex: 1;
+  }
+  .col-2 {
+    display: flex;
+    flex-direction: column;
+    flex: 5;
+  }
+  .content {
+    display: flex;
+    flex-direction: row;
+  }
+  .content > article {
+    flex: 4;
+    min-height: 60vh;
+  }
+  header, footer {
+    background: white;
+    color: black;
+    height: 20vh;
+  }
+  header, footer, article, nav {
+    padding: 1em;
+  }
+ .small {
+	font-size: xx-small;
+}
+ .medium{
+  font-size: medium;
+ }
+ .large{
+  font-size: large;
+ }
+ .larger {
+	font-size: x-large;
+}
+ .largest {
+  font-size: xx-large;
+ }
+ tab { padding-left: 4em; }
