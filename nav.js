@@ -5,5 +5,4 @@ document.write('\
       <a href="demands.html">Demands</a>\
       <a href="support.html">Support Us</a>\
       <a href="events.html">Upcoming Events</a>\
-</div>\'
-\);
+</div>\');
