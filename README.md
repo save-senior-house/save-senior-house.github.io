@@ -22,4 +22,5 @@ $ pip install -r requirements.txt
 ```console
 $ ./server.py
 ```
+If you edit/add any new markdown files to the `assets/md` directory, you can re-generate the rendered html pages by just running the server script and then shutting down the server if you don't want to keep the flask server running.
 
