@@ -38,9 +38,11 @@ nav a {
 }
 
 .content {
-  width: 60%;
-  margin: auto;
-  padding-top: 2em;
+    width: 60%;
+    max-width: 800px;
+    text-align: left;
+    margin: auto;
+    padding-top: 2em;
 }
 
  .small {
