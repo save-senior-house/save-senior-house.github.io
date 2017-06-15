@@ -1,5 +1,5 @@
-document.write(
-'<div class="links">\
+document.write('\
+<div class="links">\
       <a href="index.html">What is Senior House?</a>\
       <a href="admin.html">Admin Transgressions</a>\
       <a href="demands.html">Demands</a>\
