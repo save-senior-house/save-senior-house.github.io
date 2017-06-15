@@ -43,3 +43,19 @@ nav a {
   padding-top: 2em;
 }
 
+ .small {
+	font-size: xx-small;
+}
+ .medium{
+  font-size: medium;
+ }
+ .large{
+  font-size: large;
+ }
+ .larger {
+	font-size: x-large;
+}
+ .largest {
+  font-size: xx-large;
+}
+
