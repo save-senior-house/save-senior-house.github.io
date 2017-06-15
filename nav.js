@@ -6,4 +6,4 @@ document.write(
       <a href="support.html">Support Us</a>\
       <a href="events.html">Upcoming Events</a>\
 </div>\'
-);
+\);
