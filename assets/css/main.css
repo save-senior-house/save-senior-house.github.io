@@ -13,9 +13,6 @@ header {
 }
 
 header .container {
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
     text-align: center;
     height: 250px;
     margin: auto;
