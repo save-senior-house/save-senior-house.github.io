@@ -82,6 +82,7 @@ nav .links .button a {
     display: inline-block;
     vertical-align: middle;
     line-height: normal;
+    font-size: medium;
     
 }
 
@@ -90,6 +91,7 @@ nav .links .button a {
     max-width: 800px;
     text-align: left;
     margin: auto;
+    font-size: medium;
     padding-top: 2em;
 }
 
@@ -108,4 +110,5 @@ nav .links .button a {
  .largest {
   font-size: xx-large;
 }
+
 
