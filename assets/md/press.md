@@ -10,7 +10,7 @@
 
 * [Senior House Community and Conversations](https://medium.com/@jacobkakob/senior-house-community-and-conversations-d79d716fdfb9)
 
-* [We All Need Senior Hosue](http://mitadmissions.org/blogs/entry/we-all-need-senior-haus)
+* [We All Need Senior House](http://mitadmissions.org/blogs/entry/we-all-need-senior-haus)
 
 * [Welcome To Senior House](http://mitadmissions.org/blogs/entry/welcome_to_senior_haus_1)
 
