@@ -2,37 +2,28 @@ html, body {
   width: 100%;
   height: 100%;
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;
 }
 
 header {
   background: black;
   color: white;
-  padding: 1.5em;
-
 }
 
 header .container {
     text-align: center;
-    height: 250px;
+    height: 400px;
     margin: auto;
     overflow: hidden;
-    background-image: url(../images/birthday.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/birthday.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .container h1 {
     display: inline-block;
-    position: relative;
-    top: 30%;
-
-}
-
-.container h1 span{
-    display: block;
-    background: rgba(0,0,0,.7);
-    padding: 15px;
+    margin-top: 150px;
+    font-size: 4em;
 }
 
 .banner {
@@ -48,7 +39,7 @@ nav {
   background: #202020;
   color: white;
   text-transform: uppercase;
-  padding: 1em;
+  padding: 1.5em;
 }
 
 nav .links {
@@ -75,7 +66,7 @@ nav .links .button{
     transition:.5s;
 }
 nav .links .button:hover {
-    color: #808080;
+    color: #aaaaaa;
 }
 
 nav .links .button a {
@@ -109,6 +100,23 @@ nav .links .button a {
 }
  .largest {
   font-size: xx-large;
+}
+
+@media screen and (max-width: 800px) {
+
+  header .container {
+    height: 150px;
+  }
+
+  .container h1 {
+    font-size: 2.5em;
+    margin-top: 50px;
+  }
+
+  .content {
+    width: 80%;
+  }
+
 }
 
 
