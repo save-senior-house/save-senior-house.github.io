@@ -1,8 +1,6 @@
-# What is Senior House? What is potentially being lost?
- 
-* Senior House, MIT’s oldest student community, is one of the most free-thinking, experimental, and diverse living communities on campus. The dorm houses a disproportionately high number of people of color, LGBT students, the socioeconomically disadvantaged, and plain old students who didn't fit in anywhere else. It was the first dormitory to go co-ed and house both male and female students. In terms of diversity it is probably the most representational distribution of these factors that existed on campus, and maybe one of the best in all of higher education.
- 
-* The core values of the community, as listed on its website, are: taking care of each other, welcoming differences, and promoting individual freedom and collective responsibility.
- 
-* In 2013, Senior House received a Wiesner Award to honor the student painted murals that cover most of its walls. 
+## What is Senior House? What is potentially being lost?
+- Senior House, MIT’s oldest student community, is one of the most free-thinking, experimental, and diverse living communities on campus. The dorm houses a disproportionately high number of people of color, LGBT students, the socioeconomically disadvantaged, and plain old students who didn't fit in anywhere else. It was the first dormitory to go co-ed and house both male and female students. In terms of diversity it is probably the most representational distribution of these factors that existed on campus, and maybe one of the best in all of higher education.
+- The core values of the community, as listed on its website, are: taking care of each other, welcoming differences, and promoting individual freedom and collective responsibility.
+- In 2013, Senior House received a Wiesner Award to honor the student painted murals that cover most of its walls.
+
 
