@@ -1,6 +1,6 @@
 ## Demands
 
-Current residents of and confirmed transfer residents to Senior House will be allowed to move in in the fall, unless they have been found guilty for something in a formal COD proceeding. To require current residents to reapply for admittance to their previous residence diverges from the well-advertised choice-based residence structure, and the contents of the application place undue stress on students, especially in the case of finding faculty and staff recommendation during the summer.
+Senior House’s current residents and confirmed transfer residents will be allowed to move in in the fall, unless they have been found guilty in a formal COD proceeding. Requiring current residents to reapply for admittance to their previous residence diverges from the well-advertised choice-based residence structure. Additionally, the contents of the application place undue stress on students, especially the requirement of finding faculty and staff recommendation during the summer.
 
 ## Pilot 2021
 - Current residents and transfer students will be involved in the GRT selection process for the fall of 2017.
