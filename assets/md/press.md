@@ -1,5 +1,10 @@
 ## Press Kit
 
+### Press Coverage
+
+* [MIT is “fixing” the low graduation rate in its low-income, LGBT-friendly dorm by kicking everyone out](https://qz.com/1005761/mit-is-overhauling-senior-house-haus-a-dorm-beloved-by-poor-minority-and-lgbt-students-citing-drugs-and-late-graduation-rates/)
+
+* [Au MIT, le dortoir «sexe, drogue et alcool» va être démantelé](http://etudiant.lefigaro.fr/article/au-mit-le-dortoir-sexe-drogue-et-alcool-va-etre-demantele_65ee162e-5295-11e7-92d2-c4f85362d5fe/)
 ### Articles
 
 * [The Abject Failure of the MIT Administration](https://medium.com/@matthewcole_74645/the-abject-failure-of-the-mit-administration-a95023dae6b2)
@@ -17,8 +22,6 @@
 * [An Open Letter to Chancellor Barnhart](https://medium.com/@hollyhaney/an-open-letter-to-chancellor-barnhart-from-a-senior-house-resident-efc107e789ab)
 
 * [Senior House is Important](https://medium.com/@neltnerb/mit-senior-house-is-important-27e06a3fd352)
-
-### Information
 
 * [MIT Is Gutting Senior House.](https://www.reddit.com/r/mit/comments/6gv0a4/mit_is_gutting_senior_house_all_current_residents/)
 
