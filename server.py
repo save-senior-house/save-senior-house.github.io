@@ -11,11 +11,14 @@ _MD_PATH = 'assets/md/'
 _TEMPLATE_PATH = 'assets/templates/'
 app = Flask(__name__)
 
+@app.route('/')
+def root():
+    return send_from_directory('.', 'index.html')
 
 @app.route('/<path:path>')
 def send_static(path):
-    return send_from_directory('.', path)
 
+    return send_from_directory('.', path)
 
 def render_site():
     md_files = os.listdir(_MD_PATH)
@@ -34,4 +37,4 @@ def render_site():
 
 if __name__ == "__main__":
     render_site()
-    app.run(host='0.0.0.0', threaded=True)
+    app.run(host='127.0.0.1', threaded=True)
