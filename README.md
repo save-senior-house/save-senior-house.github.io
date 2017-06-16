@@ -20,10 +20,12 @@ $ pip install -r requirements.txt
 ## Run the server
 
 ```console
-$ ./server.py
+$ ./server.py --true
 ```
 
 Open up `localhost:5000` in a web browser and you're good to go.
+
+The `--true` flag renders the markdown files into html pages and runs the server afterwards. If no flag is given, the script just renders the content, and the server isn't started.
 
 If you edit/add any new markdown files to the `assets/md` directory, you can re-generate the rendered html pages by just running the server script and then shutting down the server if you don't want to keep the flask server running.
 

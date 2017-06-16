@@ -1,5 +1,5 @@
 #! venv/bin/python
-
+import sys
 import os
 from flask import Flask
 from flask import send_from_directory
@@ -34,7 +34,13 @@ def render_site():
             output = pystache.render(template_str, {"content": md_str})
             out_file = codecs.open(name.split('.')[0]+'.html','w', encoding="utf-8")
             out_file.write(output, )
+    print("rendered pages: " + str(md_files))
 
 if __name__ == "__main__":
+
     render_site()
-    app.run(host='127.0.0.1', threaded=True)
+    
+    if len(sys.argv) > 1:
+        runServer = sys.argv[1].strip("-")
+        if runServer == "true":
+            app.run(host='127.0.0.1', threaded=True)
