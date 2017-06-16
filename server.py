@@ -16,6 +16,9 @@ app = Flask(__name__)
 def send_static(path):
     return send_from_directory('.', path)
 
+@app.route('/')
+def send_index():
+    return send_from_directory('.', 'index.html')
 
 def render_site():
     md_files = os.listdir(_MD_PATH)
