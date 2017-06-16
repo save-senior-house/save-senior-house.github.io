@@ -8,6 +8,7 @@ At the end of the 2016-2017 school year, the administration decided that, due to
 * Low graduation rates are not an inherently wrong thing, and insinuating so sends a dangerous message to those students who may need to take time off.
 * The low graduation rate data point comes from students living in Senior House from 2008 and earlier (fact check). This data has nothing to do with current Senior House residents. 
 * The idea that Senior House has a drug problem came from 1) unethically used survey data, 2) a very low response rate, somewhere around only 30 people (fact check) even responded to the survey, and even less people reported drug use. 
+* Even if Senior House did have a drug problem, ripping residents from their community of support is not only dangerous, but wouldn't get rid of the problem; it would simply sweep it under the rug. This signals that MIT admins care more about their public image, than they do about the actual health and happiness of students. 
 * The incident in house that prompted probation for the entire house, the cancellation of steer roast, and now depopulation, only involved a handful of senior house residents. It is unfair and unprecedented to destroy a whole community of residents and alumni because of the actions of a few residents in house. Senior House does not condone the use or distribution of drugs.
 * We do not support the punishment of the whole community because of the actions of the few.
 * All residents who are not found guilty in a COD preceding have no reason to be barred entry to their own community.
