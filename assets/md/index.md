@@ -3,9 +3,9 @@
 - The core values of the community, as listed on its website, are: taking care of each other, welcoming differences, and promoting individual freedom and collective responsibility.
 - In 2013, Senior House received a [Wiesner](http://arts.mit.edu/wiesner-awards/) [Student Art](http://arts.mit.edu/wiesner-awards/) [Award](http://arts.mit.edu/wiesner-awards/) to honor the student painted murals that cover most of its walls. 
 ## Photos and Media
-https://d2mxuefqeaa7sj.cloudfront.net/s_85F9AF03B0C109BC4609755B204AD0FD19001DF3F730EA49B8DBB9403C0D4F7F_1497661454581_ripseniorhaus.jpg
+![pic](https://d2mxuefqeaa7sj.cloudfront.net/s_85F9AF03B0C109BC4609755B204AD0FD19001DF3F730EA49B8DBB9403C0D4F7F_1497661454581_ripseniorhaus.jpg)
 
-https://d2mxuefqeaa7sj.cloudfront.net/s_1049A7C524F4C89FC16035B72294E8EEC351B8F1CBB7A63728198F5A75C5A558_1497888797714_19148896_10209242608287504_5044974572504197374_n.jpeg
+(https://d2mxuefqeaa7sj.cloudfront.net/s_1049A7C524F4C89FC16035B72294E8EEC351B8F1CBB7A63728198F5A75C5A558_1497888797714_19148896_10209242608287504_5044974572504197374_n.jpeg)
 
 https://d2mxuefqeaa7sj.cloudfront.net/s_1049A7C524F4C89FC16035B72294E8EEC351B8F1CBB7A63728198F5A75C5A558_1497888797742_19149200_10154440859792373_4856229642680038529_n.jpeg
 
@@ -27,4 +27,4 @@ https://d2mxuefqeaa7sj.cloudfront.net/s_1049A7C524F4C89FC16035B72294E8EEC351B8F1
 https://www.youtube.com/watch?v=ubp4CbNvEkE&
 
 
-[https://youtu.be/ubp4CbNvEkE](https://youtu.be/ubp4CbNvEkE)
+![https://youtu.be/ubp4CbNvEkE](https://youtu.be/ubp4CbNvEkE)
