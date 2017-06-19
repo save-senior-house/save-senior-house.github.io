@@ -3,7 +3,7 @@
 - The core values of the community, as listed on its website, are: taking care of each other, welcoming differences, and promoting individual freedom and collective responsibility.
 - In 2013, Senior House received a [Wiesner Student Art Award](http://arts.mit.edu/wiesner-awards/) to honor the student painted murals that cover most of its walls. 
 ## Photos and Media
-![Save Senior House Protest (6/16/17)](https://youtu.be/kmduWIIXTcw)
+[Save Senior House Protest (6/16/17)](https://youtu.be/kmduWIIXTcw "Save Senior House Protest (6/16/17)")
 <div class="photos">
 <img class = "custom-pic" src="https://d2mxuefqeaa7sj.cloudfront.net/s_85F9AF03B0C109BC4609755B204AD0FD19001DF3F730EA49B8DBB9403C0D4F7F_1497661454581_ripseniorhaus.jpg">
 
