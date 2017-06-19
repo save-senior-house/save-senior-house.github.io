@@ -33,6 +33,7 @@
 
 
 </div>
+[![Protest Video](http://img.youtube/vi/kmduWIIXTcw/0.jpg)](https://youtu.be/kmduWIIXTcw "Protest Video")
 
 ## i3 Video 2017
 
