@@ -27,4 +27,6 @@ https://d2mxuefqeaa7sj.cloudfront.net/s_1049A7C524F4C89FC16035B72294E8EEC351B8F1
 https://www.youtube.com/watch?v=ubp4CbNvEkE&
 
 
-![https://youtu.be/ubp4CbNvEkE](https://youtu.be/ubp4CbNvEkE)
+[![Senior House i3 Video 2017](http://img.youtube.com/vi/ubp4CbNvEkE/0.jpg)](https://youtu.be/ubp4CbNvEkE "Senior House i3 Video 2017")
+
+
