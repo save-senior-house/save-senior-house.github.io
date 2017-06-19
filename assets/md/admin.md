@@ -2,7 +2,7 @@
 
 In the summer of 2016 the MIT administration announced its intervention into the Senior House community, citing low graduation rates and concerns about illegal drug use. The administration barred freshmen from living in Senior House during school year 2016–2017 and appointed a turnaround committee in response.
 
-At the end of the 2016–2017 school year, the administration decided that, due to “serious and unsafe” behaviors occurring in Senior House, all current residents were to be summarily ejected and replaced by a freshman program called [Pilot 2021.](http://mitguidetoresidences.mit.edu/map/pilot-2021-senior-house) See Chancellor Barnhart's email to residents [here](letter.html).
+At the end of the 2016–2017 school year, the administration decided that, due to “serious and unsafe” behaviors occurring in Senior House, all current residents were to be summarily ejected and replaced by a freshman program called [Pilot 2021.](http://mitguidetoresidences.mit.edu/map/pilot-2021-senior-house) See Chancellor Barnhart's email to residents [here](/../../letter.html).
 
 ## How this hurts our community and damages the mission of MIT.:
 - Students recognized their own responsibility to address these issues and made sincere proposals for change that were summarily dismissed by the administration.
