@@ -1,5 +1,5 @@
 ## Upcoming Events
-- Monday, June 19th - Tuesday, June 20th, Time TBD: Sleep in Protest outside President Reif’s Office
+- Monday, June 19th - Tuesday, June 20th, Time TBD: [Sleep in Protest outside President Reif’s Office](https://www.facebook.com/events/978585882283436/?active_tab=about)
 - Wednesday, June 21st, 8am-4pm: Call in Marathon 
   - L. Rafael Reif (617.253.0148) 
   - Cynthia Barnhart (617.253.9742)

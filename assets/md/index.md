@@ -20,7 +20,6 @@
 
 <img class = "custom-pic" src="https://d2mxuefqeaa7sj.cloudfront.net/s_1049A7C524F4C89FC16035B72294E8EEC351B8F1CBB7A63728198F5A75C5A558_1497888797800_Megan+Levin+-+IMG_1921.jpeg">
 
-
 <img class = "custom-pic" src="https://d2mxuefqeaa7sj.cloudfront.net/s_1049A7C524F4C89FC16035B72294E8EEC351B8F1CBB7A63728198F5A75C5A558_1497888797860_Kyle+Dominguez+-+20170616_163907.jpeg">
 
 
@@ -38,5 +37,6 @@
 ## i3 Video 2017
 
 [![Senior House i3 Video 2017](http://img.youtube.com/vi/ubp4CbNvEkE/0.jpg)](https://youtu.be/ubp4CbNvEkE "Senior House i3 Video 2017")
+
 
 
