@@ -7,10 +7,15 @@
 
 * [Au MIT, le dortoir «sexe, drogue et alcool» va être démantelé](http://etudiant.lefigaro.fr/article/au-mit-le-dortoir-sexe-drogue-et-alcool-va-etre-demantele_65ee162e-5295-11e7-92d2-c4f85362d5fe/)
 ### The Tech
+
 * [Administration decides to resettle Senior House residents, citing “unhealthy behavior” during last year’s turnaround period](https://thetech.com/2017/06/18/senior-house-depopulation)
+
 * [Students, alums respond to Senior House depopulation and Pilot 2021](https://thetech.com/2017/06/18/community-responses-to-pilot-2021)
+
 * [Student leaders respond to Pilot 2021](https://thetech.com/2017/06/18/student-leadership-letter-pilot-2021)
+
 * [Students protest Senior House ‘depopulation,’ new freshman program](https://thetech.com/2017/06/18/sh-depopulation-pilot-2021-protest)
+
 * [Why Pilot 2021 is everyone’s problem](https://thetech.com/2017/06/18/why-everyone-should-care-pilot-2021)
 
 ### Articles
