@@ -11,7 +11,7 @@
 
 * Keep checking back for ways to support Senior House remotely!
 
-## Open Letter in Support of Senior House
+## Open Letter in Support of Senior House ([Sign Here](https://docs.google.com/forms/d/e/1FAIpQLSeyNJ7wu5Fudw9Tvc6XLpA4qi2kZPMu3RMm7lcwyzlSTPvqMg/viewform))
 
 Dear Chancellor Barnhart:
  
@@ -43,7 +43,7 @@ Ontology Specialist Manager and GROWTH Client Solutions Representative, Doctor E
  
 Jered Floyd SB ‘98 M.Eng ‘99
 5E/East Campus 1995-1998, Senior House affiliate
-CTO, Permabit Technology Corp. yes 
+CTO, Permabit Technology Corp.
  
 Geeta Dayal, S.B. Brain and Cognitive Science ‘01, S.B. Humanities ‘01
 Senior House resident, 1998-2001
