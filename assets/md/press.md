@@ -1,13 +1,13 @@
 ## Press Kit
 
 ### Press Coverage
+*[Grappling With Its Identity, MIT Shuts A Dorm For Misfits (Forbes)](https://www.forbes.com/sites/matthewherper/2017/06/28/mit-shuts-down-a-dorm-and-grapples-with-its-identity/#385a361e360f)
+* [MIT may succeed in killing Senior House, risking both reputation and student health (CambridgeDay)](http://www.cambridgeday.com/2017/06/20/mit-may-succeed-in-killing-senior-house-risking-both-reputation-and-student-health/)
+* [MIT acts to change dorm counterculture, but community isn’t going without a fight (CambridgeDay)](http://www.cambridgeday.com/2017/06/19/mit-acts-to-change-dorm-counterculture-but-community-isnt-going-without-a-fight/)
 
-* [MIT may succeed in killing Senior House, risking both reputation and student health](http://www.cambridgeday.com/2017/06/20/mit-may-succeed-in-killing-senior-house-risking-both-reputation-and-student-health/)
-* [MIT acts to change dorm counterculture, but community isn’t going without a fight](http://www.cambridgeday.com/2017/06/19/mit-acts-to-change-dorm-counterculture-but-community-isnt-going-without-a-fight/)
+* [MIT is “fixing” the low graduation rate in its low-income, LGBT-friendly dorm by kicking everyone out (Quartz)](https://qz.com/1005761/mit-is-overhauling-senior-house-haus-a-dorm-beloved-by-poor-minority-and-lgbt-students-citing-drugs-and-late-graduation-rates/)
 
-* [MIT is “fixing” the low graduation rate in its low-income, LGBT-friendly dorm by kicking everyone out](https://qz.com/1005761/mit-is-overhauling-senior-house-haus-a-dorm-beloved-by-poor-minority-and-lgbt-students-citing-drugs-and-late-graduation-rates/)
-
-* [Au MIT, le dortoir «sexe, drogue et alcool» va être démantelé](http://etudiant.lefigaro.fr/article/au-mit-le-dortoir-sexe-drogue-et-alcool-va-etre-demantele_65ee162e-5295-11e7-92d2-c4f85362d5fe/)
+* [Au MIT, le dortoir «sexe, drogue et alcool» va être démantelé (Lefigaro)](http://etudiant.lefigaro.fr/article/au-mit-le-dortoir-sexe-drogue-et-alcool-va-etre-demantele_65ee162e-5295-11e7-92d2-c4f85362d5fe/)
 ### The Tech
 
 * [Administration decides to resettle Senior House residents, citing “unhealthy behavior” during last year’s turnaround period](https://thetech.com/2017/06/18/senior-house-depopulation)
