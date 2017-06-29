@@ -13,5 +13,26 @@
 
 * Keep checking back for ways to support Senior House remotely!
 
+## Campus-Wide Support For Senior House
+
+<div class="photos">
+<img class = "custom-pic" src="assets/images/et.jpg">
+
+<img class = "custom-pic" src="assets/images/ec.jpg">
+
+<img  class = "custom-pic" src="assets/images/bc.jpg">
+
+<img class = "custom-pic" src="assets/images/macg1.jpg">
+
+<img class = "custom-pic" src="assets/images/macg2.jpg">
+
+<img class = "custom-pic" src="assets/images/student.jpg">
+
+<img class = "custom-pic" src="assets/images/random.jpg">
+
+<img class = "custom-pic" src="assets/images/simmons.jpg">
+
+</div>
+
 
 
