@@ -1,6 +1,9 @@
 ## Press Kit
 
 ### Press Coverage
+
+* [The Fall of MIT's Counter-Culture Dorm](https://www.theatlantic.com/education/archive/2017/06/the-fall-of-mits-counter-culture-dorm/532074/)
+
 * [Grappling With Its Identity, MIT Shuts A Dorm For Misfits (Forbes)](https://www.forbes.com/sites/matthewherper/2017/06/28/mit-shuts-down-a-dorm-and-grapples-with-its-identity/#385a361e360f)
 
 * [MIT may succeed in killing Senior House, risking both reputation and student health (CambridgeDay)](http://www.cambridgeday.com/2017/06/20/mit-may-succeed-in-killing-senior-house-risking-both-reputation-and-student-health/)
@@ -11,6 +14,18 @@
 
 * [Au MIT, le dortoir «sexe, drogue et alcool» va être démantelé (Lefigaro)](http://etudiant.lefigaro.fr/article/au-mit-le-dortoir-sexe-drogue-et-alcool-va-etre-demantele_65ee162e-5295-11e7-92d2-c4f85362d5fe/)
 ### The Tech
+
+* [Senior House is a vital refuge for its residents](https://thetech.com/2017/06/29/kendall-mahn-op-ed)
+
+* [Pilot 2021 will be a fatal experiment] (https://thetech.com/2017/06/29/pilot-2021-and-suicide-rates)
+
+* [Keep it weird, keep it awesome](https://thetech.com/2017/06/29/why-senior-house-is-great)
+
+* [SH residents discuss concerns about admins’ review process](https://thetech.com/2017/06/29/senior-house-review-process-concerns)
+
+* [Senior House ranks high for underrepresented minorities, similar to New House in family income, new data show](https://thetech.com/2017/06/29/dorm-diversity-breakdown)
+
+* [Pilot 2021 threatens the LGBTQ community at MIT](https://thetech.com/2017/06/29/lgbtq-organizations-pilot-2021)
 
 * [Administration decides to resettle Senior House residents, citing “unhealthy behavior” during last year’s turnaround period](https://thetech.com/2017/06/18/senior-house-depopulation)
 
