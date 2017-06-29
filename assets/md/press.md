@@ -2,7 +2,7 @@
 
 ### Press Coverage
 
-* [The Fall of MIT's Counter-Culture Dorm](https://www.theatlantic.com/education/archive/2017/06/the-fall-of-mits-counter-culture-dorm/532074/)
+* [The Fall of MIT's Counter-Culture Dorm (Atlantic)](https://www.theatlantic.com/education/archive/2017/06/the-fall-of-mits-counter-culture-dorm/532074/)
 
 * [Grappling With Its Identity, MIT Shuts A Dorm For Misfits (Forbes)](https://www.forbes.com/sites/matthewherper/2017/06/28/mit-shuts-down-a-dorm-and-grapples-with-its-identity/#385a361e360f)
 
@@ -13,11 +13,12 @@
 * [MIT is “fixing” the low graduation rate in its low-income, LGBT-friendly dorm by kicking everyone out (Quartz)](https://qz.com/1005761/mit-is-overhauling-senior-house-haus-a-dorm-beloved-by-poor-minority-and-lgbt-students-citing-drugs-and-late-graduation-rates/)
 
 * [Au MIT, le dortoir «sexe, drogue et alcool» va être démantelé (Lefigaro)](http://etudiant.lefigaro.fr/article/au-mit-le-dortoir-sexe-drogue-et-alcool-va-etre-demantele_65ee162e-5295-11e7-92d2-c4f85362d5fe/)
+
 ### The Tech
 
 * [Senior House is a vital refuge for its residents](https://thetech.com/2017/06/29/kendall-mahn-op-ed)
 
-* [Pilot 2021 will be a fatal experiment] (https://thetech.com/2017/06/29/pilot-2021-and-suicide-rates)
+* [Pilot 2021 will be a fatal experiment](https://thetech.com/2017/06/29/pilot-2021-and-suicide-rates)
 
 * [Keep it weird, keep it awesome](https://thetech.com/2017/06/29/why-senior-house-is-great)
 
