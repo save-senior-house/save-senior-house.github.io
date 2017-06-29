@@ -22,11 +22,11 @@
 
 <img  class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/bc.JPG">
 
-<img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/macg1.JPG">
+<img class = "rotate90" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/macg1.JPG">
 
-<img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/macg2.JPG">
+<img class = "rotate90" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/macg2.JPG">
 
-<img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/student.JPG">
+<img class = "rotate90" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/student.JPG">
 
 <img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/random.JPG">
 
