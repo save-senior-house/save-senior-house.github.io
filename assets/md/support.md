@@ -21,21 +21,21 @@
 
 <div class="photos">
 
-<img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/et.jpg">
+<img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/et.JPG">
 
-<img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/ec.jpg">
+<img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/ec.JPG">
 
-<img  class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/bc.jpg">
+<img  class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/bc.JPG">
 
-<img class = "rotate90" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/macg1.jpg">
+<img class = "rotate90" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/macg1.JPG">
 
-<img class = "rotate90" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/macg2.jpg">
+<img class = "rotate90" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/macg2.JPG">
 
-<img class = "rotate90" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/student.jpg">
+<img class = "rotate90" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/student.JPG">
 
-<img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/random.jpg">
+<img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/random.JPG">
 
-<img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/simmons.jpg">
+<img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/simmons.JPG">
 
 <img class = "custom-pic" src="https://raw.githubusercontent.com/save-senior-house/save-senior-house.github.io/master/assets/images/mcc.jpg">
 
