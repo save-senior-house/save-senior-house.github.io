@@ -4,7 +4,7 @@ In the summer of 2016 the MIT administration announced its intervention into the
 
 At the end of the 2016–2017 school year, the administration decided that, due to “serious and unsafe” behaviors occurring in Senior House, all current residents were to be summarily ejected and replaced by a freshman program called [Pilot 2021.](http://mitguidetoresidences.mit.edu/map/pilot-2021-senior-house) See Chancellor Barnhart's email to residents [here](http://saveseniorhouse.mit.edu/letter.html).
 
-## How this hurts our community and damages the mission of MIT.:
+## How this hurts our community and damages the mission of MIT:
 - Students recognized their own responsibility to address these issues and made sincere proposals for change that were summarily dismissed by the administration.
 - [The statistics are misleading](https://chancellor.mit.edu/sites/default/files/MITGraduationRates-2008-2015.pdf): Many students take longer to graduate because of personal issues that correlate with the abundance of students from at risk socioeconomic backgrounds. 
 - The idea that Senior House has a drug problem came from 1) unethically used survey data, 2) a very low response rate, somewhere around only 30 people (source) even responded to the survey, and even fewer people reported drug use.
