@@ -2,6 +2,8 @@
 
 ### Press Coverage
 
+* [Saying protests for dorm violate its values, MIT toughens plan clearing Senior House](http://www.cambridgeday.com/2017/07/07/saying-protests-for-dorm-violate-its-values-mit-toughens-plan-clearing-senior-house/)
+
 * [The Fall of MIT's Counter-Culture Dorm (Atlantic)](https://www.theatlantic.com/education/archive/2017/06/the-fall-of-mits-counter-culture-dorm/532074/)
 
 * [Grappling With Its Identity, MIT Shuts A Dorm For Misfits (Forbes)](https://www.forbes.com/sites/matthewherper/2017/06/28/mit-shuts-down-a-dorm-and-grapples-with-its-identity/#385a361e360f)
