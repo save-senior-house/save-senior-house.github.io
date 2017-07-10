@@ -4,10 +4,22 @@ In the summer of 2016 the MIT administration announced its intervention into the
 
 At the end of the 2016–2017 school year, the administration decided that, due to “serious and unsafe” behaviors occurring in Senior House, all current residents were to be summarily ejected and replaced by a freshman program called [Pilot 2021.](http://mitguidetoresidences.mit.edu/map/pilot-2021-senior-house) See Chancellor Barnhart's email to residents [here](http://saveseniorhouse.mit.edu/letter.html).
 
+The reaction from the Senior House community has reinforced our decision. The misinformation, denials, and responses – online, in emails, and in person – violate MIT values. We no longer believe that first-year and continuing students living in Senior House next year will be able to define for themselves their own community values and living experience.
+
+**UPDATE:** On July 7th, 2017, in response to the peaceful protests in which MIT students practiced their right to free speech in order to voice concerns with the administrative actions against Senior House (or what Barnhart called "misinformation, denials, and responses" that "violate MIT values"), Cynthia Barnhart informed ex-residents of Senior House that *no* undergraduates would be permitted to live in the building, E2, and it would now be a completely [white-washed graduate resident dorm](https://studentlife.mit.edu/housing/graduate-family-housing/graduate-residences), because "[administrators] no longer believe that first-year and continuing students living in Senior House next year will be able to define for themselves their own community values and living experience". Read the whole email to ex-residents [here](http://saveseniorhouse.mit.edu/letter2.html).
+
 ## How this hurts our community and damages the mission of MIT:
+- With MIT already going through an undergraduate housing crisis, this last-minute and emotional reaction to make Senior House a graduate residence removes an extra 140+ beds available for undergradates, which negatively impacts everyone on campus with even more overcrowding. 
+
+- There was no student input whatsoever in the decision to make Senior House a graduate resident dorm. Cynthia Barnhart also wholly ignored an [open letter](https://docs.google.com/forms/d/e/1FAIpQLSeyNJ7wu5Fudw9Tvc6XLpA4qi2kZPMu3RMm7lcwyzlSTPvqMg/viewform) signed by nearly 1,400 MIT alumni dating back to 1958 that petitioned against the Pilot 2021 changes.
+
+- Based on Cynthia's email to the ex-residents of Senior House, the Chancellor has made this decision in response to the criticisms of her previous actions against Senior House. Instead of admitting fault and working with students to come up with a better solution, Cynthia punished all of campus by destroying an amazing community and contributing to the overcrowding of campus because students practiced their right to free speech and were critical of the Chancellor's decisions. 
+
+- Cynthia claims that the sudents who were to live in Senior House this coming Fall (incoming freshman for Pilot 2021, displaced New House residents, and the Senior House residents accepted through the application program), would not "be able to define for themselves their own community values and living experience", which is not only insulting, but baseless.
+
 - Students recognized their own responsibility to address these issues and made sincere proposals for change that were summarily dismissed by the administration.
 
-- [The statistics are misleading](https://chancellor.mit.edu/sites/default/files/MITGraduationRates-2008-2015.pdf): Many students take longer to graduate because of personal issues that correlate with the abundance of students from at risk socioeconomic backgrounds. 
+- [The statistics are misleading](https://chancellor.mit.edu/sites/default/files/MITGraduationRates-2008-2015.pdf): Many students take longer to graduate because of personal issues that correlate with the abundance of students of minority status and from at risk socioeconomic backgrounds. 
 
 - The idea that Senior House has a drug problem came from data from an unethically deanonymized survey with a very low response rate --only 28% of campus even responded to the survey.
 
