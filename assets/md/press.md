@@ -20,6 +20,8 @@
 
 ### The Tech
 
+* [Senior House residents respond to Chancellor Barnhart](https://thetech.com/2017/07/06/sh-residents-letter-barnhart)
+
 * [Senior House is a vital refuge for its residents](https://thetech.com/2017/06/29/kendall-mahn-op-ed)
 
 * [Pilot 2021 will be a fatal experiment](https://thetech.com/2017/06/29/pilot-2021-and-suicide-rates)
