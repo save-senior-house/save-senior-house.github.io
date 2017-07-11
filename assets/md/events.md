@@ -9,3 +9,5 @@
     * L. Rafael Reif (617.253.0148) 
     * Cynthia Barnhart (617.253.9742)
 - Thursday, June 22nd, 4pm-8pm: [Campus-Wide BBQ in Kresge](https://www.facebook.com/events/1775745082736092/)
+
+![Kresge BBQ](saveseniorhouse.org/kresge.JPG)
