@@ -10,7 +10,15 @@ Students and alumni campus-wide were appalled at the actions of the administrati
 
 The official response from Senior House can be read [here](https://thetech.com/2017/07/06/sh-residents-letter-barnhart), where we said that "we are committed to building a community that promotes healthy, responsible choices; supports all residents; and welcomes differences. This commitment includes welcoming every Pilot 2021 freshman and New House transfer." Given this response, it is unclear why Barnhart claimed to believe that we would not be able to define our own community values.
 
+In a [letter](http://saveseniorhouse.mit.edu/items/letter3.html) from DormCon and the UA, it was further revealed that the "misinformation, denials, and responses" Cynthia was talking about was specifically a webpage created by one Senior House alumnus, which called out Mike Short for his slanderous [Op-Ed](https://thetech.com/2017/06/18/mike-short-op-ed) on Senior House in the Tech, and current MIT students talking to incoming freshmen on the Class of 2021 facebook page about Pilot 2021 and Senior House. 
+
 ## How this hurts our community and damages the mission of MIT:
+- Mike Short's [Op-Ed](https://thetech.com/2017/06/18/mike-short-op-ed) is slanderous and defamatory to the residents and alumni of Senior House. Many alumni in the comments who lived in Senior House at the same time have clarified what actually happened during the events that Short hyperbollically retells. Short also only lived in Senior House during the summer for 3 months, a time when many people in the building (such as him) are not regular residents. 
+
+- Current MIT students were not dissuading students from partaking in Pilot 2021 nor were they pushing Senior House culture onto people. These students simply wanted to inform the incoming freshman of what Pilot 2021 and Senior House were, so that they could make a more informed decision, seeing as the administration had kept them out of the loop for the most part.
+
+- Turning Senior House into a graduate dorm simply because a handful of people were correcting the record on Mike Short or informing incoming freshmen on what's happening at their future community, MIT, is yet another example of collective punishment, these times the actions of the few impacting all of campus and setting dangerous administrative precedents. 
+
 - With MIT already going through an undergraduate housing crisis, this last-minute and emotional reaction to make Senior House a graduate residence removes an extra 140+ beds available for undergradates, which negatively impacts everyone on campus with even more overcrowding. 
 
 - There was no student input whatsoever in the decision to make Senior House a graduate resident dorm. Cynthia Barnhart also wholly ignored an [open letter](https://docs.google.com/forms/d/e/1FAIpQLSeyNJ7wu5Fudw9Tvc6XLpA4qi2kZPMu3RMm7lcwyzlSTPvqMg/viewform) signed by nearly 1,400 MIT alumni dating back to 1958 that petitioned against the Pilot 2021 changes.
