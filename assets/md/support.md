@@ -2,6 +2,8 @@
 
 * Like us on [Facebook](https://www.facebook.com/saveseniorhouse/)!
 
+* [Sign](https://docs.google.com/forms/d/e/1FAIpQLSc2PnruqaJ4c2OQ9XaRLVR_nTlI0Om_MQlv9yWUzhEu65-Zwg/viewform) our petition to save the murals in Senior House!
+
 * [Sign](https://docs.google.com/forms/d/e/1FAIpQLSeyNJ7wu5Fudw9Tvc6XLpA4qi2kZPMu3RMm7lcwyzlSTPvqMg/viewform) our open letter in support of Senior House!
 
 * See [Upcoming Events](http://saveseniorhouse.mit.edu/events.html) for opportunities to join us and demonstrate your support for Senior House's values of inclusivity and support. To receive email announcements about events, subscribe to haus-action@mit.edu. 
