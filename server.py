@@ -26,14 +26,16 @@ def render_site():
     with open(_TEMPLATE_PATH+"template.mustache") as template:
         template_str = template.read()
 
+    #only compile files with .md extension
     for name in md_files:
-        file_path = _MD_PATH+name
+        if name[-3:] == ".md":
+            file_path = _MD_PATH+name
 
-        with codecs.open(file_path, encoding="utf-8") as md_file:
-            md_str = markdown.markdown(md_file.read())+"\n<br><br>\n<br><br>\n<br><br>"
-            output = pystache.render(template_str, {"content": md_str})
-            out_file = codecs.open(name.split('.')[0]+'.html','w', encoding="utf-8")
-            out_file.write(output, )
+            with codecs.open(file_path, encoding="utf-8") as md_file:
+                md_str = markdown.markdown(md_file.read())+"\n<br><br>\n<br><br>\n<br><br>"
+                output = pystache.render(template_str, {"content": md_str})
+                out_file = codecs.open(name.split('.')[0]+'.html','w', encoding="utf-8")
+                out_file.write(output, )
     print("rendered pages: " + str(md_files))
 
 if __name__ == "__main__":
