@@ -2,6 +2,8 @@
 
 * Like us on [Facebook](https://www.facebook.com/saveseniorhouse/)!
 
+* Two West Campus students have written a set of standards we hope to hold the MIT Administration to on all decisions. Please [sign](https://docs.google.com/forms/d/e/1FAIpQLSfUcmk5kcDWxBNwI1VAvGV7Hut2dJTF-Xi28_Ra3rBt-ubi3w/viewform) their petition to support data honesty, transparency, and MIT's mission.
+
 * [Sign](https://docs.google.com/forms/d/e/1FAIpQLSc2PnruqaJ4c2OQ9XaRLVR_nTlI0Om_MQlv9yWUzhEu65-Zwg/viewform) our petition to save the murals in Senior House!
 
 * [Sign](https://docs.google.com/forms/d/e/1FAIpQLSeyNJ7wu5Fudw9Tvc6XLpA4qi2kZPMu3RMm7lcwyzlSTPvqMg/viewform) our open letter in support of Senior House!
