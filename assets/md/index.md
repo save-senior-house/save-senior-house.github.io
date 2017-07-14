@@ -38,7 +38,8 @@
 
 ## i3 Video 2017
 
-[![Senior House i3 Video 2017](http://img.youtube.com/vi/ubp4CbNvEkE/0.jpg)](https://youtu.be/ubp4CbNvEkE "Senior House i3 Video 2017")
+  <iframe src="https://www.youtube/embed/ubp4CbNvEkE"
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 
 
