@@ -37,9 +37,7 @@
 </div>
 
 ## i3 Video 2017
-<div class = "videos">
-  <iframe src="http://www.youtube/embed/ubp4CbNvEkE"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ubp4CbNvEkE" frameborder="0" allowfullscreen></iframe>
 
 
