@@ -27,9 +27,9 @@ In a [letter](http://saveseniorhouse.mit.edu/items/letter3.html) from DormCon an
 
 - Cynthia claims that the sudents who were to live in Senior House this coming Fall (incoming freshman for Pilot 2021, displaced New House residents, and the Senior House residents accepted through the application program), would not "be able to define for themselves their own community values and living experience", which is not only insulting, but baseless.
 
-- The extreme reaction to our peaceful protest shows the lack of trust from the administration. They want to paint us as criminals, when we are just MIT students who want to save our home and dorm culture across campus. 
+- The [extreme reaction](http://saveseniorhouse.mit.edu/items/lockdown.html) to our peaceful protest shows the lack of trust from the administration. They want to paint us as criminals, when we are just MIT students who want to save our home and dorm culture across campus. 
 
-- The Senior House tire swing and BBQ pits are cultural symbols. The administration quietly ripping them out of our courtyard shows how little respect they have for our unique and beautiful culture.
+- The Senior House [tire swing and BBQ pits](http://saveseniorhouse.mit.edu/items/nobbq.html) are cultural symbols. The administration quietly ripping them out of our courtyard shows how little respect they have for our unique and beautiful culture.
 
 - Students recognized their own responsibility to address these issues and made sincere proposals for change that were summarily dismissed by the administration.
 
