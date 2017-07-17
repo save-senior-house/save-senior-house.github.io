@@ -15,6 +15,8 @@ In a [letter](http://saveseniorhouse.mit.edu/items/letter3.html) from DormCon an
 ## How this hurts our community and damages the mission of MIT:
 - Mike Short's [Op-Ed](https://thetech.com/2017/06/18/mike-short-op-ed) is slanderous and defamatory to the residents and alumni of Senior House. Many alumni in the comments who lived in Senior House at the same time have clarified what actually happened during the events that Short hyperbollically retells. Short also only lived in Senior House during the summer for 3 months, a time when many people in the building (such as him) are not regular residents. 
 
+- While The Google Ad about Mike Short was only made by one person and without the consent of the movement to support Senior House, it was not "[defamatory](http://legal-dictionary.thefreedictionary.com/Defamation)" as Barnhart claimed, since the Ad, though rude, did not include any false information about Mike Short. Read it [here](https://thetech.com/photos/8198). 
+
 - Current MIT students were not dissuading students from partaking in Pilot 2021 nor were they pushing Senior House culture onto people. These students simply wanted to inform the incoming freshman of what Pilot 2021 and Senior House were, so that they could make a more informed decision, seeing as the administration had kept them out of the loop for the most part.
 
 - Turning Senior House into a graduate dorm simply because a handful of people were correcting the record on Mike Short or informing incoming freshmen on what's happening at their future community, MIT, is yet another example of collective punishment, this time the actions of the few impacting all of campus and setting dangerous administrative precedents. 
